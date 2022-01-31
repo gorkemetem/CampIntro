@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{E67E2909-FEEC-410E-BB06-697C0A11995E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4_5", "Homework4_5\Homework4_5.csproj", "{E66A65B0-8887-4818-9147-1017984DA841}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "Homework4_5\MyDictionary.csproj", "{E66A65B0-8887-4818-9147-1017984DA841}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
