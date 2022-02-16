@@ -6,6 +6,7 @@ namespace Homework2_6
     {
         static void Main(string[] args)
         {
+
             Product urun1 = new Product();
             urun1.ad = "ÜRÜN1";
             urun1.fiyat = 15;
